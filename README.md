@@ -10,6 +10,8 @@
 [![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-green.svg)]()
 
+[Report Bug](https://github.com/NihaalNO/TyreWearWiz/issues) · [Request Feature](https://github.com/NihaalNO/TyreWearWiz/issues) · [Documentation](https://github.com/NihaalNO/TyreWearWiz/wiki)
+
 </div>
 
 ---
