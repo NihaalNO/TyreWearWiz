@@ -1,4 +1,4 @@
-# 🛞 TyreWearWiz
+# 🏎️ TyreWearWiz
 
 <div align="center">
 
